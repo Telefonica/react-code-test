@@ -2,11 +2,15 @@
 
 ## How to send the solution
 
-**PLEASE, DON'T SEND PULL REQUESTS TO THIS REPOSITORY**
+:warning: **PLEASE, DON'T SEND PULL REQUESTS TO THIS REPOSITORY**
 
-**PLEASE, DON'T PUBLISH YOUR SOLUTION IN A PUBLIC REPOSITORY**
+:warning: **PLEASE, DON'T PUBLISH YOUR SOLUTION IN A PUBLIC REPOSITORY**
+
+:warning: **Do not install any additional dependencies.**
 
 Once you have finished the exercise, just copy the `src/` directory into a zip file and send it by email.
+
+Appart from the `src/` directory, you can include a text file with notes or comments if you want, or comment on anything you consider relevant in the email.
 
 ## The exercise
 
