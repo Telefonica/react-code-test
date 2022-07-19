@@ -113,6 +113,10 @@ All the components in the above UI examples can be imported from `@telefonica/mi
 
 **Tip**: you'll need to replace the `console.log` in the `onPress` handler of `MainNavigationBar` with the code needed to switch between sections.
 
+Here is an example of the expected UI:
+![favorites ui 1](img/favorites.png)
+![favorites ui 2](img/favorites2.png)
+
 ### Task 7: write a test for Task 6
 
 Write one or more tests in `app-test.tsx` to cover the feature implemented in Task 6.
