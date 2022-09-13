@@ -22,12 +22,6 @@ You can start by running the app with:
 yarn && yarn start
 ```
 
-or
-
-```
-npm i && npm start
-```
-
 You'll get some TypeScript errors, but they should disappear once you finish Task 1.
 
 ## Tasks
